@@ -1,5 +1,2 @@
 # VBAChallenge
-VBA Homework
-
-VBA Screenshots of finished Stock Data Spreadsheet
-VBA Script 
+VBA Homework - VBA Screenshots of finished Stock Data Spreadsheet and VBA Script 
